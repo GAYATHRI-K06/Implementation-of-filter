@@ -115,21 +115,34 @@ plt.show()
 ### 1. Smoothing Filters
 
 <img width="380" height="276" alt="image" src="https://github.com/user-attachments/assets/a52865a5-4285-4c3d-8528-ede06975096d" />
+
+
 i) Using Averaging Filter
+
 <img width="380" height="276" alt="image" src="https://github.com/user-attachments/assets/a9dc3bb4-5042-4ca9-881d-05455eaa2198" />
+
+
 ii)Using Weighted Averaging Filter
+
 <img width="637" height="456" alt="image" src="https://github.com/user-attachments/assets/542bc744-0d83-44e8-bfcc-1bb95c67b6ae" />
 
 iii)Using Gaussian Filter
+
 <img width="642" height="460" alt="image" src="https://github.com/user-attachments/assets/42358909-ca04-41d1-ba05-bab90721b3cc" />
+
 iv) Using Median Filter
+
 <img width="645" height="463" alt="image" src="https://github.com/user-attachments/assets/77299f92-de6a-4085-8cc6-e3c061b123e6" />
 
 ### 2. Sharpening Filters
+
 i) Using Laplacian Kernal
+
 <img width="649" height="474" alt="image" src="https://github.com/user-attachments/assets/dddaa51f-a3ae-46ef-a7ca-2dc79489d272" />
 
 ii) Using Laplacian Operator
+
+
 <img width="642" height="462" alt="image" src="https://github.com/user-attachments/assets/5f0cc91a-d186-419c-afdb-264e4fb84995" />
 
 ## Result:
